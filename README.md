@@ -11,7 +11,7 @@
 
 ## About me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding at a desk with two monitors">
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding at a desk with two monitors">
 
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand">, I'm **Nguyễn Minh Nhựt**, but you can just call me **Sun** (or Sun Nguyễn).
 
@@ -31,7 +31,7 @@ What I enjoy most:
 
 <div align="center">
 
-<img width="280" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" alt="Anime character working through a pile of papers">
+<img width="320" src="https://media.giphy.com/media/fZ2YagbBRmL2qIWKnR/giphy.gif" alt="Retro under construction animation">
 
 🚧 **Nothing public yet: the first projects are still cooking.** 🚧
 
@@ -47,7 +47,7 @@ What I enjoy most:
 
 ## Tech stack
 
-<img align="right" width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cat typing furiously on a laptop">
+<div align="center">
 
 <table>
   <tr>
@@ -68,7 +68,12 @@ What I enjoy most:
   </tr>
 </table>
 
-<br clear="right">
+<br>
+
+<img width="316" height="170" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" alt="Anime character working through a pile of papers">
+<img width="170" height="170" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cat typing furiously on a laptop">
+
+</div>
 
 ## GitHub activity
 
