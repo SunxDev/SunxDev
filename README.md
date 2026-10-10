@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=APIs+and+services+in+TypeScript+%26+Node.js;Making+slow+queries+fast;Open-source+work+and+side+projects+live+here" alt="APIs and services in TypeScript and Node.js. Making slow queries fast. Open-source work and side projects live here.">
 
 <a href="mailto:nguyennhut.dev@pm.me"><img src="https://img.shields.io/badge/Email-nguyennhut.dev%40pm.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email"></a>
-<img src="https://komarev.com/ghpvc/?username=SunxDev&style=flat-square&color=2c5364&label=Profile+views" alt="Profile views">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SunxDev.SunxDev&left_text=Profile%20views&left_color=%23555&right_color=%232c5364" alt="Profile views">
 
 </div>
 
