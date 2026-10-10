@@ -67,7 +67,7 @@ What I enjoy most:
   </tr>
   <tr>
     <td><b>Learning</b> 🌱</td>
-    <td><img src="https://skillicons.dev/icons?i=rust,go,py" alt="Rust, Go, Python"></td>
+    <td><img src="https://skillicons.dev/icons?i=rust,go,py,nix" alt="Rust, Go, Python, Nix"></td>
   </tr>
 </table>
 
