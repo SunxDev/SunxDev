@@ -11,7 +11,9 @@
 
 ## About me
 
-Hi, I'm **Nguyễn Minh Nhựt**, but you can just call me **Sun** (or Sun Nguyễn).
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding at a desk with two monitors">
+
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand">, I'm **Nguyễn Minh Nhựt**, but you can just call me **Sun** (or Sun Nguyễn).
 
 I'm a backend engineer who has been building and maintaining server-side systems since 2022, mostly with TypeScript, Node.js and MySQL. At work that has covered products in healthcare, entertainment, e-commerce and education, plus production support for a core-banking system.
 
@@ -23,7 +25,29 @@ What I enjoy most:
 - 🧩 **Splitting monoliths**: breaking a large codebase into services and migrating the data along the way.
 - 🔌 **Integrations**: connecting systems to large external data sources reliably.
 
+<br clear="right">
+
+## Projects
+
+<div align="center">
+
+<img width="280" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" alt="Anime character working through a pile of papers">
+
+🚧 **Nothing public yet: the first projects are still cooking.** 🚧
+
+</div>
+
+<!--
+  Add one card per public project, two per row, inside the div below:
+  <a href="https://github.com/SunxDev/REPO"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=SunxDev&repo=REPO&hide_border=true" alt="REPO"></a>
+
+<div align="center">
+</div>
+-->
+
 ## Tech stack
+
+<img align="right" width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cat typing furiously on a laptop">
 
 <table>
   <tr>
@@ -32,21 +56,27 @@ What I enjoy most:
   </tr>
   <tr>
     <td><b>Comfortable</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,postgres,redis,docker,git,linux" alt="Python, PostgreSQL, Redis, Docker, Git, Linux"></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,linux" alt="PostgreSQL, Redis, Docker, Git, Linux"></td>
   </tr>
   <tr>
     <td><b>Have worked with</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,go,angular" alt="Java, Spring Boot, Go, Angular"></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,angular" alt="Java, Spring Boot, Angular"></td>
+  </tr>
+  <tr>
+    <td><b>Learning</b> 🌱</td>
+    <td><img src="https://skillicons.dev/icons?i=rust,go,py" alt="Rust, Go, Python"></td>
   </tr>
 </table>
+
+<br clear="right">
 
 ## GitHub activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SunxDev&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SunxDev&theme=default&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SunxDev&theme=github_dark&hide_border=true&show_icons=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SunxDev&theme=default&hide_border=true&show_icons=true" alt="GitHub stats">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SunxDev&theme=github-dark-blue&hide_border=true">
